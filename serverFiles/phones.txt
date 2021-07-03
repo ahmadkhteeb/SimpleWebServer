@@ -1,0 +1,15 @@
+phone1,1500
+phone2,550
+phone3,1500
+phone4,5000
+phone5,4200
+phone6,800
+phone7,400
+phone8,899
+phone9,550
+phone10,50
+phone11,7150
+phone12,1750
+phone13,50
+phone14,7150
+phone15,1750
